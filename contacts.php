@@ -69,6 +69,3 @@
     </address>  
  </section>
 </div>
-
-
-<? include 'footer.php'; ?>

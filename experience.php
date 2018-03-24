@@ -41,5 +41,3 @@
       </section>
         
     </div>
-    
-<? include 'footer.php'; ?>
